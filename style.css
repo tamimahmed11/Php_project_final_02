@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    font-size: 44px;
+    text-decoration: dotted;
+    text-wrap: 20px;
+    text-decoration: aqua;
+}
+li{
+    font-size: 44px;
+}
+p {
+    font-size: 36px;
+    line-height:1.5;
+}
+
+body {
+    font-size: 4%;
+}
+h1
+{
+    text-decoration: dotted;
+}
+p::first-letter{
+    text-transform: uppercase;
+    font-family: 48px;
+    font-weight: 600;
+}
